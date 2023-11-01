@@ -1,0 +1,17 @@
+{
+  "name": "contact-list",
+  "version": "1.0.0",
+  "description": "a basic contact list to learn about the express js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
